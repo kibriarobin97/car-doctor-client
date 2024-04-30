@@ -54,13 +54,13 @@ const Slider = () => {
                 </div>
 
             </div>
-            <div className="absolute flex items-center top-0 left-0 bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0)] min-h-full">
+            <div className="absolute flex items-center top-0 left-0 bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0)] min-h-full rounded-lg">
                 <div className=" text-white w-1/2 pl-8 space-y-3">
                     <h2 className="text-4xl font-bold">Affordable Price For Car Servicing</h2>
                     <p>There are many variations of passages of available, but the majority have suffered alteration in some form</p>
                     <div className="flex gap-3">
                         <button className="btn btn-primary font-bold">Discover More</button>
-                        <button className="btn btn-outline font-bold">Latest Project</button>
+                        <button className="btn btn-outline text-white font-bold">Latest Project</button>
                     </div>
                 </div>
             </div>
